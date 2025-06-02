@@ -80,3 +80,5 @@ Bu proje sayesinde:
 ![Image](https://github.com/user-attachments/assets/14e0e4ae-5838-4882-b200-772f9db190f1)
 
 ![Image](https://github.com/user-attachments/assets/226c2262-32e0-4403-bd92-163439bfbbfe)
+
+![Image](https://github.com/user-attachments/assets/71a8a253-f4cb-4fb4-8568-6ebe2d98892a)
