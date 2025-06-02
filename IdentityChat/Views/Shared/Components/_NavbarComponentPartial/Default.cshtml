@@ -1,0 +1,49 @@
+﻿﻿<div class="nav-header">
+    <div class="brand-logo">
+        <a href="index.html">
+            <b class="logo-abbr"><img src="images/logo.png" alt=""> </b>
+            <span class="logo-compact"><img src="~/quixlab-master/images/logo-compact.png" alt=""></span>
+            <span class="brand-title">
+                <img src="~/quixlab-master/images/logo-text.png" alt="">
+            </span>
+        </a>
+    </div>
+</div>
+<div class="header">
+    <div class="header-content clearfix">
+
+        <div class="nav-control">
+            <div class="hamburger">
+                <span class="toggle-icon"><i class="icon-menu"></i></span>
+            </div>
+        </div>
+
+        <div class="header-right">
+            <ul class="clearfix">
+                @* @await Component.InvokeAsync("_UserMessagesComponentPartial") *@
+                <li class="icons dropdown">
+                    <div class="user-img c-pointer position-relative" data-toggle="dropdown">
+                        <span class="activity active"></span>
+                        @* @await Component.InvokeAsync("_UserImageViewComponentPartial") *@
+
+                    </div>
+                    <div class="drop-down dropdown-profile animated fadeIn dropdown-menu">
+                        <div class="dropdown-content-body">
+                            <ul>
+                                <li>
+                                    <a href="/Profile/UserDetail/"><i class="icon-user"></i> <span>Profil</span></a>
+                                </li>
+                                <li>
+                                    <a href="/Message/Inbox/">
+                                        <i class="icon-envelope-open"></i> <span>Gelen Kutusu</span> <div class="badge gradient-3 badge-pill gradient-1">@ViewBag.countInboxMessages</div>
+                                    </a>
+                                </li>
+                                <li><a href="/Login/Logout/"><i class="icon-key"></i> <span>Çıkış Yap</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
