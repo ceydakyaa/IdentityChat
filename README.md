@@ -81,4 +81,6 @@ Bu proje sayesinde:
 
 ![Image](https://github.com/user-attachments/assets/226c2262-32e0-4403-bd92-163439bfbbfe)
 
+Aramaya göre Filtrelendiğinde;
+
 ![Image](https://github.com/user-attachments/assets/71a8a253-f4cb-4fb4-8568-6ebe2d98892a)
