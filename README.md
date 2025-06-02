@@ -57,16 +57,6 @@ Ana panel, kullanıcının mesajlaşma geçmişi hakkında hızlıca bilgi verir
 
 ## 📝 Kazanımlarım
 
-Bu proje sayesinde:
-
-- ✅ ASP.NET Core 8.0 mimarisine pratik hâkimiyet kazandım  
-- ✅ Identity sistemini gerçek bir projede uyguladım  
-- ✅ Temiz ve kullanıcı dostu arayüzler tasarladım  
-- ✅ LINQ ile etkili veri sorgulamaları gerçekleştirdim  
-- ✅ Yazılım mimarisi, güvenlik ve kullanıcı yönetimi konularında önemli deneyimler edindim  
-
----
-
 > 📂 Proje dosyaları ve kaynak kodlara erişmek için bu repository’yi klonlayabilirsiniz.  
 > Her türlü görüş ve katkı için issue ya da pull request göndermekten çekinmeyin.
 
@@ -84,3 +74,14 @@ Bu proje sayesinde:
 Aramaya göre Filtrelendiğinde;
 
 ![Image](https://github.com/user-attachments/assets/71a8a253-f4cb-4fb4-8568-6ebe2d98892a)
+
+
+Bu proje sayesinde:
+
+- ✅ ASP.NET Core 8.0 mimarisine pratik hâkimiyet kazandım  
+- ✅ Identity sistemini gerçek bir projede uyguladım  
+- ✅ Temiz ve kullanıcı dostu arayüzler tasarladım  
+- ✅ LINQ ile etkili veri sorgulamaları gerçekleştirdim  
+- ✅ Yazılım mimarisi, güvenlik ve kullanıcı yönetimi konularında önemli deneyimler edindim  
+
+---
