@@ -29,8 +29,6 @@ Bu uygulama, kullanıcıların güvenli biçimde mesaj alışverişi yapabildiğ
 - **Kullanıcı Profili:**  
   Ad, soyad, e-posta gibi bilgilerin görüntülenip güncellenebildiği kullanıcı paneli.
 
-- **Çöp Kutusu:**  
-  Silinen mesajlar geri alınabilir şekilde burada saklanır.
 
 ---
 
