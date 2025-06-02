@@ -71,6 +71,6 @@ Bu proje sayesinde:
 > Her türlü görüş ve katkı için issue ya da pull request göndermekten çekinmeyin.
 
 ---
-Ekran Görselleri
+## 📸 Ekran Görselleri
 
 ![Image](https://github.com/user-attachments/assets/018be718-ea00-4ea8-99a0-51f97d7f3518) 
